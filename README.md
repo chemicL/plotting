@@ -5,7 +5,7 @@ A tool I use to plot tsv files.
 
 Usage:
 ```bash
-    ./plot.py [FILE...]
+./plot.py [FILE...]
 ```
 
 The tsv file format is:
