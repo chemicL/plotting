@@ -7,7 +7,6 @@ import dateutil.parser as dateparser
 import numpy as np
 
 from matplotlib.backends.backend_pdf import PdfPages
-from glob import glob
 
 PDF_FILENAME = 'plots.pdf'
 YLABEL = 'Amount'
