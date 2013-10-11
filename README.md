@@ -9,6 +9,13 @@ Usage:
 ```
 
 The tsv file format is:
-    iso-8601-date<TAB>int
+
+```
+iso-8601-date<TAB>int
+```
+
 Example:
-    2012-12-01	7856
+
+```
+2012-12-01	7856
+```
