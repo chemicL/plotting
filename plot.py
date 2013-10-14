@@ -48,6 +48,7 @@ def plotTsvs(filenames):
     for filename in filenames:
         fig = plotTsv(filename)
         pp.savefig(fig)
+        plt.close(fig)
 
     pp.close()
 
